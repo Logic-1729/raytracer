@@ -1,0 +1,312 @@
+Render耗时: 4.638397086s
+Render耗时: 47.158115409s
+Render耗时: 4.786273739s
+Render耗时: 4.795385516s
+Render耗时: 4.760203362s
+Render耗时: 6.275638199s
+Render耗时: 4.97711131s
+Render耗时: 4.76952144s
+Render耗时: 1130.402005303s
+Render耗时: 4.518676417s
+Render耗时: 4.639223872s
+Render耗时: 4.728143198s
+Render耗时: 5.14242384s
+Render耗时: 5.268574865s
+Render耗时: 31.863448095s
+Render耗时: 31.186476364s
+Render耗时: 30.693128777s
+Render耗时: 31.420265141s
+Render耗时: 30.850841728s
+Render耗时: 29.848149961s
+Render耗时: 31.06126987s
+Render耗时: 30.393009479s
+Render耗时: 29.992484645s
+Render耗时: 11.092172607s
+Render耗时: 9.578713493s
+Render耗时: 9.314562484s
+Render耗时: 447.75340797s
+Render耗时: 417.369234999s
+Render耗时: 8.903412404s
+Render耗时: 9.016028605s
+Render耗时: 647.574446555s
+Render耗时: 49.649287395s
+Render耗时: 53.826155102s
+Render耗时: 50.53421209s
+Render耗时: 49.823755309s
+Render耗时: 9.264948668s
+Checkered Render耗时: 4.751418308s
+Render耗时: 10.019892001s
+Render耗时: 9.303832986s
+Render耗时: 8.688279325s
+Earth Render耗时: 1.42438454s
+Earth Render耗时: 1.614396031s
+Earth Render耗时: 1.447626157s
+Earth Render耗时: 1.465575322s
+Perlin Render耗时: 2.942342601s
+Perlin Render耗时: 798.431294ms
+Perlin Render耗时: 793.41289ms
+Perlin Render耗时: 2.937853756s
+Perlin Render耗时: 3.181040616s
+Perlin Render耗时: 3.088415554s
+Perlin Render耗时: 3.119916637s
+Perlin Render耗时: 2.780820957s
+Perlin Render耗时: 3.167828183s
+Perlin Render耗时: 3.114417799s
+Perlin Render耗时: 3.049764113s
+Perlin Render耗时: 3.25167298s
+Perlin Render耗时: 3.49415022s
+Perlin Render耗时: 2.991943552s
+Earth Render耗时: 1.508582864s
+Render耗时: 9.095291465s
+Checkered Render耗时: 5.143311105s
+Checkered Render耗时: 7.136514373s
+Perlin Render耗时: 2.992505695s
+Perlin Render耗时: 3.120693839s
+Perlin Render耗时: 3.050326458s
+Perlin Render耗时: 3.813605236s
+Perlin Render耗时: 3.721420014s
+Perlin Render耗时: 4.07264946s
+Perlin Render耗时: 3.22612104s
+Perlin Render耗时: 3.937454274s
+Perlin Render耗时: 3.949072274s
+Perlin Render耗时: 3.546626798s
+Perlin Render耗时: 3.837474915s
+Perlin Render耗时: 3.136304603s
+Perlin Render耗时: 3.671700225s
+Perlin Render耗时: 3.032564558s
+Perlin Render耗时: 3.501622666s
+Perlin Render耗时: 4.011373455s
+Perlin Render耗时: 3.478948871s
+Perlin Render耗时: 4.051013041s
+Perlin Render耗时: 8.381906163s
+Perlin Render耗时: 8.141261166s
+Perlin Render耗时: 7.920519584s
+Perlin Render耗时: 8.144412056s
+Perlin Render耗时: 7.819448365s
+Perlin Render耗时: 7.472905327s
+Perlin Render耗时: 8.191880249s
+Perlin Render耗时: 8.814124179s
+Perlin Render耗时: 8.337007897s
+Quads Render耗时: 4.61430692s
+Quads Render耗时: 4.848234349s
+Quads Render耗时: 6.024348753s
+SimpleLight Render耗时: 5.458812232s
+SimpleLight Render耗时: 4.671959344s
+CornellBox Render耗时: 75.133174676s
+CornellBox Render耗时: 100.000877468s
+CornellBox Render耗时: 151.713328412s
+CornellBox Render耗时: 114.768416114s
+CornellBox Render耗时: 70.98975065s
+CornellBox Render耗时: 112.469122286s
+CornellBox Render耗时: 115.519451932s
+CornellSmoke Render耗时: 128.049190854s
+FinalScene Render耗时: 12034.546062364s
+CornellBox Render耗时: 114.790309274s
+CornellBox Render耗时: 105.539001763s
+CornellBox Render耗时: 110.540021405s
+CornellBox Render耗时: 109.629518856s
+CornellBox Render耗时: 108.738529324s
+CornellBox Render耗时: 107.016405615s
+CornellBox Render耗时: 106.329691518s
+CornellBox Render耗时: 68.54150608s
+Render耗时: 7.248835663s
+CornellBox Render耗时: 70.603510658s
+CornellBox Render耗时: 72.793743561s
+CornellBox Render耗时: 72.826536804s
+CornellBox Render耗时: 68.100059998s
+CornellBox Render耗时: 68.332464482s
+CornellBox Render耗时: 18.488630044s
+CornellBox Render耗时: 22.591362278s
+CornellBox Render耗时: 23.449384742s
+CornellBox Render耗时: 23.786109017s
+CornellBox Render耗时: 24.484051383s
+CornellBox Render耗时: 24.17863546s
+SimpleLight Render耗时: 3.791779918s
+CornellBox Render耗时: 78.003295262s
+CornellBox Render耗时: 23.41938207s
+CornellBox Render耗时: 23.908439465s
+CornellBox Render耗时: 24.207751979s
+Render耗时: 701.392573ms
+Checkered Render耗时: 2.049399801s
+Earth Render耗时: 1.197016417s
+Quads Render耗时: 2.715950726s
+Quads Render耗时: 2.440837327s
+CornellBox Render耗时: 8.618949965s
+CornellBox Render耗时: 25.180490824s
+CornellSmoke Render耗时: 8.503555266s
+FinalScene Render耗时: 10.753908318s
+FinalScene Render耗时: 788.094801837s
+FinalScene Render耗时: 865.395106714s
+CornellBox Render耗时: 9.766110731s
+CornellBox Render耗时: 26.145814742s
+CornellBox Render耗时: 46.574221395s
+CornellBox Render耗时: 46.047013873s
+CornellBox Render耗时: 46.085555759s
+CornellBox Render耗时: 45.623946598s
+CornellBox Render耗时: 46.204802994s
+CornellBox Render耗时: 419.367863ms
+CornellBox Render耗时: 418.631741ms
+CornellBox Render耗时: 606.973965ms
+CornellBox Render耗时: 43.272682198s
+CornellBox Render耗时: 43.49236273s
+CornellBox Render耗时: 662.423516ms
+CornellBox Render耗时: 671.980936ms
+CornellBox Render耗时: 552.165512ms
+CornellBox Render耗时: 1.756573313s
+CornellBox Render耗时: 1.737752588s
+CornellBox Render耗时: 1.744694689s
+CornellBox Render耗时: 1.875393851s
+CornellBox Render耗时: 192.056748246s
+CornellBox Render耗时: 2.806810974s
+CornellBox Render耗时: 4.453042379s
+CornellBox Render耗时: 4.501816174s
+CornellBox Render耗时: 4.772315656s
+CornellBox Render耗时: 4.78946456s
+CornellBox Render耗时: 5.121205942s
+CornellBox Render耗时: 27.368713826s
+CornellBox Render耗时: 46.527382939s
+CornellBox Render耗时: 155.662476841s
+CornellBox Render耗时: 155.412769314s
+CornellBox Render耗时: 133.600581017s
+CornellBox Render耗时: 41.651576925s
+CornellBox Render耗时: 1.32906582s
+CornellBox Render耗时: 1.163683379s
+CornellBox Render耗时: 1.275553316s
+CornellBox Render耗时: 47.438631722s
+CornellBox Render耗时: 926.581774ms
+CornellBox Render耗时: 916.852613ms
+CornellBox Render耗时: 28.718011554s
+CornellBox Render耗时: 284.575796ms
+CornellBox Render耗时: 282.525707ms
+CornellBox Render耗时: 284.102638ms
+CornellBox Render耗时: 1.494755927s
+CornellBox Render耗时: 1.393034978s
+CornellBox Render耗时: 1.513615896s
+CornellBox Render耗时: 287.487551ms
+CornellBox Render耗时: 302.244555ms
+CornellBox Render耗时: 429.311037ms
+CornellBox Render耗时: 1.864647957s
+CornellBox Render耗时: 405.55519ms
+CornellBox Render耗时: 2.355416371s
+CornellBox Render耗时: 42.665988615s
+CornellBox Render耗时: 213.001424073s
+CornellBox Render耗时: 147.279111532s
+CornellBox Render耗时: 150.242939849s
+CornellBox Render耗时: 147.79323603s
+CornellBox Render耗时: 176.315394579s
+CornellBox Render耗时: 196.315490094s
+CornellBox Render耗时: 41.240072118s
+CornellBox Render耗时: 419.31136891s
+CornellBox Render耗时: 51.171356882s
+CornellBox Render耗时: 51.251679565s
+CornellBox Render耗时: 83.680637213s
+CornellBox Render耗时: 892.926490923s
+FinalScene Render耗时: 2.452199848s
+FinalScene Render耗时: 25.955680562s
+FinalScene Render耗时: 25.584505985s
+FinalScene Render耗时: 19.411190054s
+FinalScene Render耗时: 34.30078576s
+FinalScene Render耗时: 29.816716747s
+FinalScene Render耗时: 24.70786389s
+FinalScene Render耗时: 20.635770332s
+FinalScene Render耗时: 20.354531518s
+FinalScene Render耗时: 23.936726986s
+FinalScene Render耗时: 17.837183006s
+FinalScene Render耗时: 16.707795187s
+FinalScene Render耗时: 16.781074651s
+FinalScene Render耗时: 13.270387293s
+FinalScene Render耗时: 15.111630002s
+FinalScene Render耗时: 17.380623356s
+FinalScene Render耗时: 18.975780658s
+FinalScene Render耗时: 23.487743565s
+FinalScene Render耗时: 28.953662978s
+FinalScene Render耗时: 31.151436095s
+FinalScene Render耗时: 31.123522106s
+FinalScene Render耗时: 29.785494843s
+FinalScene Render耗时: 29.522819105s
+FinalScene Render耗时: 28.759721671s
+FinalScene Render耗时: 29.247007457s
+FinalScene Render耗时: 30.697881491s
+FinalScene Render耗时: 29.034709185s
+FinalScene Render耗时: 31.970937784s
+FinalScene Render耗时: 29.0582919s
+FinalScene Render耗时: 27.84644234s
+FinalScene Render耗时: 28.200381091s
+FinalScene Render耗时: 27.982971356s
+FinalScene Render耗时: 28.030810883s
+FinalScene Render耗时: 29.86341628s
+FinalScene Render耗时: 28.009950487s
+FinalScene Render耗时: 26.2132241s
+FinalScene Render耗时: 25.839685847s
+FinalScene Render耗时: 26.020660512s
+FinalScene Render耗时: 26.092851213s
+FinalScene Render耗时: 26.434190501s
+FinalScene Render耗时: 26.425924656s
+FinalScene Render耗时: 25.947494253s
+FinalScene Render耗时: 30.341142748s
+FinalScene Render耗时: 30.484301713s
+FinalScene Render耗时: 23.164814632s
+FinalScene Render耗时: 24.490622024s
+FinalScene Render耗时: 25.313592723s
+FinalScene Render耗时: 24.634549396s
+FinalScene Render耗时: 25.314763012s
+FinalScene Render耗时: 23.22875486s
+FinalScene Render耗时: 23.217208454s
+FinalScene Render耗时: 41.881167674s
+FinalScene Render耗时: 41.60391422s
+FinalScene Render耗时: 42.156775935s
+FinalScene Render耗时: 44.051317935s
+FinalScene Render耗时: 42.988335816s
+FinalScene Render耗时: 50.350308137s
+FinalScene Render耗时: 52.962574743s
+FinalScene2 Render耗时: 14.984268763s
+FinalScene2 Render耗时: 22.341932114s
+FinalScene2 Render耗时: 9.673445295s
+FinalScene2 Render耗时: 6.457676101s
+FinalScene2 Render耗时: 29.200574455s
+FinalScene2 Render耗时: 23.370094573s
+FinalScene2 Render耗时: 23.534064311s
+FinalScene2 Render耗时: 22.924000774s
+FinalScene2 Render耗时: 24.211200022s
+FinalScene2 Render耗时: 23.627601762s
+FinalScene2 Render耗时: 26.548434136s
+FinalScene2 Render耗时: 23.370336616s
+FinalScene2 Render耗时: 24.749535811s
+FinalScene2 Render耗时: 25.832778809s
+FinalScene2 Render耗时: 19.234353411s
+FinalScene2 Render耗时: 5.781314623s
+FinalScene2 Render耗时: 5.698341136s
+FinalScene2 Render耗时: 4.736267455s
+FinalScene2 Render耗时: 4.874260041s
+FinalScene2 Render耗时: 4.746645124s
+FinalScene2 Render耗时: 47.319664971s
+FinalScene2 Render耗时: 16.858365378s
+FinalScene2 Render耗时: 5.084174653s
+FinalScene2 Render耗时: 7.529392163s
+FinalScene2 Render耗时: 10.92289304s
+FinalScene2 Render耗时: 11.748831679s
+FinalScene2 Render耗时: 10.476773542s
+FinalScene2 Render耗时: 10.687161826s
+FinalScene2 Render耗时: 11.314566752s
+FinalScene2 Render耗时: 9.888851036s
+FinalScene2 Render耗时: 11.433310818s
+FinalScene2 Render耗时: 10.175637467s
+FinalScene2 Render耗时: 12.413473148s
+FinalScene2 Render耗时: 13.534245721s
+FinalScene2 Render耗时: 36.703793558s
+FinalScene2 Render耗时: 33.546080242s
+FinalScene2 Render耗时: 37.559295208s
+FinalScene Render耗时: 79.447582333s
+FinalScene2 Render耗时: 146.032471294s
+FinalScene2 Render耗时: 145.073992796s
+FinalScene2 Render耗时: 171.26442997s
+FinalScene2 Render耗时: 147.147098249s
+FinalScene2 Render耗时: 149.233873373s
+FinalScene2 Render耗时: 149.055397024s
+FinalScene2 Render耗时: 141.309107579s
+FinalScene2 Render耗时: 153.640234935s
+FinalScene2 Render耗时: 145.380142634s
+FinalScene2 Render耗时: 117.498863812s
+FinalScene2 Render耗时: 108.216071284s
+FinalScene2 Render耗时: 1092.490197111s
+FinalScene2 Render耗时: 1118.871384988s

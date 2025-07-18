@@ -1,0 +1,137 @@
+use std::fmt;
+use std::ops::{Add, Sub, Mul, Div,Neg,AddAssign,MulAssign,DivAssign};
+
+#[derive(Debug, Clone, Copy)]
+pub struct Vec3 {
+    pub x: f64,
+    pub y: f64,
+    pub z: f64,
+}
+
+pub type Point3 = Vec3;
+pub type Color = Vec3;
+
+impl Vec3 {
+    pub fn new(x: f64, y: f64, z: f64) -> Self {
+        Self { x, y, z }
+    }
+
+    pub fn zero() -> Self {
+        Self::new(0.0, 0.0, 0.0)
+    }
+
+    pub fn length(&self) -> f64 {
+        self.length_squared().sqrt()
+    }
+
+    pub fn length_squared(&self) -> f64 {
+        self.x * self.x + self.y * self.y + self.z * self.z
+    }
+}
+
+// 运算符重载
+impl Add for Vec3 {
+    type Output = Self;
+
+    fn add(self, other: Self) -> Self {
+        Self::new(self.x + other.x, self.y + other.y, self.z + other.z)
+    }
+}
+
+impl Sub for Vec3 {
+    type Output = Self;
+
+    fn sub(self, other: Self) -> Self {
+        Self::new(self.x - other.x, self.y - other.y, self.z - other.z)
+    }
+}
+
+impl Mul for Vec3 {
+    type Output = Self;
+
+    fn mul(self, other: Self) -> Self {
+        Self::new(self.x * other.x, self.y * other.y, self.z * other.z)
+    }
+}
+
+impl Mul<f64> for Vec3 {
+    type Output = Self;
+
+    fn mul(self, t: f64) -> Self {
+        Self::new(self.x * t, self.y * t, self.z * t)
+    }
+}
+
+impl Mul<Vec3> for f64 {
+    type Output = Vec3;
+
+    fn mul(self, v: Vec3) -> Vec3 {
+        v * self
+    }
+}
+
+impl Div<f64> for Vec3 {
+    type Output = Self;
+
+    fn div(self, t: f64) -> Self {
+        self * (1.0 / t)
+    }
+}
+
+impl Neg for Vec3 {
+    type Output = Self;
+
+    fn neg(self) -> Self {
+        Self::new(-self.x, -self.y, -self.z)
+    }
+}
+
+impl AddAssign for Vec3 {
+    fn add_assign(&mut self, other: Self) {
+        *self = Self {
+            x: self.x + other.x,
+            y: self.y + other.y,
+            z: self.z + other.z,
+        };
+    }
+}
+
+impl MulAssign<f64> for Vec3 {
+    fn mul_assign(&mut self, t: f64) {
+        *self = Self {
+            x: self.x * t,
+            y: self.y * t,
+            z: self.z * t,
+        };
+    }
+}
+
+impl DivAssign<f64> for Vec3 {
+    fn div_assign(&mut self, t: f64) {
+        *self *= 1.0 / t;
+    }
+}
+
+// 格式化输出
+impl fmt::Display for Vec3 {
+    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
+        write!(f, "{} {} {}", self.x, self.y, self.z)
+    }
+}
+
+// 实用函数
+pub fn dot(u: &Vec3, v: &Vec3) -> f64 {
+    u.x * v.x + u.y * v.y + u.z * v.z
+}
+
+pub fn cross(u: &Vec3, v: &Vec3) -> Vec3 {
+    Vec3::new(
+        u.y * v.z - u.z * v.y,
+        u.z * v.x - u.x * v.z,
+        u.x * v.y - u.y * v.x,
+    )
+}
+
+pub fn unit_vector(v: Vec3) -> Vec3 {
+    v / v.length()
+}
